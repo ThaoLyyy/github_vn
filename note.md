@@ -10,4 +10,7 @@ Repository (Repo)
 - git reset
 - git Commit
 - git log
+- git log --oneline
+- git checkout {branch name}
 - git branch
+- git checkout -b{branch name}
