@@ -7,3 +7,7 @@ Repository (Repo)
 - git init
 - git status
 - git add
+- git reset
+- git Commit
+- git log
+- git branch
