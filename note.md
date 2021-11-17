@@ -1,6 +1,10 @@
 #Terms
 
 Repository (Repo)
+Branch
+Conflict
+local
+Remote
 
 #Commands
 
@@ -16,3 +20,4 @@ Repository (Repo)
 - git checkout -b{branch name}
 - git merge {branch name}
 - git branch -d {branch name}
+- git push
